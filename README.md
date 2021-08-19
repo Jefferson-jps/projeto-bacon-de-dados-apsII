@@ -6,9 +6,14 @@ Tema: Cantina - Bacon de Dados
 
 Profª Geiza Costa
 
-Integrantes do Grupo:
-2305013-6 Guilherme Kengi Matsuo Ferreira
-2332133-4 Matheus Rodrigues Monteiro
-2332911-4 Ronald da Silva
-2444921-1 Jefferson Pereira Silva
-2485171-0 Fabrizio Gomes Pereira
+**Integrantes do Grupo:**
+
+Guilherme Kengi Matsuo Ferreira
+
+Matheus Rodrigues Monteiro
+
+Ronald da Silva
+
+Jefferson Pereira Silva
+
+Fabrizio Gomes Pereira
